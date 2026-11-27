@@ -13,3 +13,7 @@
 6) git add .       | Добавление файлов в буфер обмена
 7) git commit -m "message" | сохранение всего из буфера обмена
 8) git push origin master   | Отправка изменений в репозитории
+g7yduqawgdxuasybhjx
+dqaiuskhbcaisncas
+acjansicnasioklcx
+oihcuiashcnias
