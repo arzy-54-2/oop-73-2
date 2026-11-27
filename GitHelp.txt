@@ -15,5 +15,12 @@
 8) git push origin master   | Отправка изменений в репозитории
 9) git branch              | Для просмотра веток
 10) git branch name_branch | Создание ветки
-11) git switch name_branch | для перехода на указанную ветку
-12) git switch -c name_branch  | Создание новой ветки и переход на нее
+
+    git checkout name_branch
+11)                             | для перехода на указанную ветку
+     git switch name_branch
+
+    git checkout -b name_branch
+12)                                 | Создание новой ветки и переход на нее
+    git switch -c name_branch
+
