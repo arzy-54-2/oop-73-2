@@ -17,3 +17,4 @@ g7yduqawgdxuasybhjx
 dqaiuskhbcaisncas
 acjansicnasioklcx
 oihcuiashcnias
+12) git switch -c name_branch  | Создание новой ветки и переход на нее
