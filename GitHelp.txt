@@ -24,3 +24,5 @@
 12)                                 | Создание новой ветки и переход на нее
     git switch -c name_branch
 
+13) git branch -d name_branch       | Удаление ветки локально
+14) git push origin --delete name_branch   | Удаление в GitHub
